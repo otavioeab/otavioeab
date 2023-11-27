@@ -6,6 +6,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavioeab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div
 
+<p align="left"> 
+  <ul>
+    <li>🎓 &nbsp; Attending 8 period of Computer Engineering.</li>
+    <li>💻 &nbsp; Software Analyst.</li>
+    <li>📘 &nbsp; Learning More About Web/Mobile Automation.</li>
+    <li>📍 &nbsp; Living in Araraquara-SP (Brazil).</li>
+  </ul>
+</p>
+
 <div>
 <h3 align="left"> 💻Testing Tools:</h3>
 
