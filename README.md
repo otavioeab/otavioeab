@@ -30,5 +30,6 @@
 <img alt="Oracle slq" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/oracle%20sql.png?raw=true">
 <img lt="Dbeaver" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/dbeaver.png?raw=true"/>
 <img alt="Androind Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
- <img alt="Visual Studio" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/Visual%20Studio%20Code.png?raw=true"/>
+<img alt="Visual Studio" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/Visual%20Studio%20Code.png?raw=true"/>
 <img lt="Filezilla" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+<img lt="Azure devops" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/Azure%20devops%20.png?raw=true" />
