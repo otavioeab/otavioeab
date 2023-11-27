@@ -22,14 +22,13 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-
           
  <div>
 <h3 align="left"> 🛠️Tools:</h3> 
 <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 <img alt="SoapUI" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/Soapui.png?raw=true">
 <img alt="Oracle slq" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/oracle%20sql.png?raw=true">
+<img lt="Dbeaver" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/dbeaver.png?raw=true"/>
 <img alt="Androind Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+ <img alt="Visual Studio" height="40" width="40" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/Visual%20Studio%20Code.png?raw=true"/>
 <img lt="Filezilla" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-
-![Snake animation](https://github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
