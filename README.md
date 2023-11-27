@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <ul>
-    <li>🎓 &nbsp; Attending 8 period of Computer Engineering.</li>
+    <li>🎓 &nbsp; 8◦ period of Computer Engineering - UNINTER.</li>
     <li>💻 &nbsp; Software Analyst.</li>
     <li>📘 &nbsp; Learning More About Web/Mobile Automation.</li>
     <li>📍 &nbsp; Living in Araraquara-SP (Brazil).</li>
