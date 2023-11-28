@@ -37,4 +37,4 @@
 <img lt="Filezilla" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 <img lt="Azure devops" height="30" width="30" src="https://github.com/otavioeab/otavioeab/blob/main/Dev%20icons/Azure%20devops%20.png?raw=true" />
 
-![Snake animation](https://github.com/otavioeab/otavioeab/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/samfreitasxs/samfreitasxs/blob/output/github-contribution-grid-snake.svg)
